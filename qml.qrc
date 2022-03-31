@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ListModelUI.qml</file>
+        <file>ListModelUIForm.ui.qml</file>
+        <file>StudentItem.qml</file>
+        <file>StudentItemForm.ui.qml</file>
+        <file>util.js</file>
+    </qresource>
+</RCC>
